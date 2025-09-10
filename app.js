@@ -22,5 +22,5 @@
 
 
 
-  console.log(generadorDeFrases(pronoun, adj, noun));
+  generadorDeFrases(pronoun, adj, noun)
   
